@@ -13,8 +13,7 @@ You will need several things from your adminstrator to be able to make calls to 
 
 ## app.config or web.config
 We often store settings like license information in the app.config or web.config.  In all of these examples, you will see this in the app.config.  This allows you to update the app.config in the example and replace that information with your own.
-
-  
+ 
   
     <add key="SITEID" value="Your SiteID"/>
     
